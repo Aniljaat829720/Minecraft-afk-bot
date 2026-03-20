@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 
 // YAHAN APNI SERVER DETAILS DALEIN
 const serverHost = 'chatpatechutadsmp.aternos.me' // Eg: myserver.aternos.me
-const serverPort = 25565 // Default yahi hota hai
+const serverPort = 13022 // Default yahi hota hai
 const botUsername = 'AFK_Bot' // Bot ka naam
 
 let bot
